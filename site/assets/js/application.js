@@ -10,8 +10,6 @@
  */
 
 (() => {
-  'use strict'
-
   // Scroll the active sidebar link into view
   const sidenav = document.querySelector('.bd-sidebar')
   const sidenavActiveLink = document.querySelector('.bd-links-nav .active')
